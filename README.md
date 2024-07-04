@@ -11,6 +11,7 @@ Welcome to the **Career Management for Students** project! 🎓 This web-based a
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
@@ -37,6 +38,23 @@ Welcome to the **Career Management for Students** project! 🎓 This web-based a
 - **Scikit-learn**: For preprocessing data.
 - **HTML/CSS**: For front-end design.
 
+## 📸 Screenshots
+
+Here are some screenshots of the application:
+
+1. **Home Page**
+    ![Home Page](./images/home.png)
+
+2. **Student Dashboard**
+    ![Student Login](./images/dash.png)
+
+3. **Points Earned**
+    ![Student Login](./images/predi.png)
+   
+4. **Career Prediction Results**
+    ![Career Prediction Results](./images/result.png)
+
+   
 ## Getting Started 🏃‍♂️
 
 ### Prerequisites
